@@ -2,6 +2,13 @@
 
 The Hierarchical Memory Consolidation System (HMCS) is a memory management and organization system designed to handle large-scale memory storage and retrieval efficiently. It is inspired by human memory processes and aims to mimic human-like memory organization and recall. The system is intended for use with autonomous cognitive entities (ACEs) to manage and optimize their internal memory.
 
+Other names that may be easier:
+
+- Adaptive Knowledge Archive (AKA)
+- Rolling Episodic Memory Organizer (REMO)
+- Summarized Knowledge Integration System (SKIS)
+- Efficient Memory Aggregation and Retrieval (EMAR)
+
 ## Overview
 
 The HMCS consists of several key components and processes:
